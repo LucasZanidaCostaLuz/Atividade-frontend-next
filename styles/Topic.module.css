@@ -1,0 +1,13 @@
+.topic{
+    background-color: white;
+    width: 80%;
+    height: 20vh;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 768px){
+}
